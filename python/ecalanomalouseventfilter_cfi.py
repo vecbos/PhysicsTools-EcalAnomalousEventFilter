@@ -1,3 +1,5 @@
+import FWCore.ParameterSet.Config as cms
+
 #Originally the Filter was developed to identify two different types of problematic events
 #- energy deposits near an ECAL gap/crack region
 #- energy deposit near dead/masked ECAL cells
